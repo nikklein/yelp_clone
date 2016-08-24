@@ -20,29 +20,35 @@ class RestaurantsController < ApplicationController
   end
 
   def show
-    @restaurant = Restaurant.find(params[:id])
+    find_current_restaurant
   end
 
   def edit
-    @restaurant = Restaurant.find(params[:id])
+    find_current_restaurant
   end
 
   def update
-    @restaurant = Restaurant.find(params[:id])
-    @restaurant.update(restaurant_params)
-    redirect_to '/restaurants'
+    find_current_restaurant
+    if @restaurant.user == current_user
+      @restaurant.update(restaurant_params)
+      redirect_to '/restaurants'
+    end
   end
 
   def destroy
-    @restaurant = Restaurant.find(params[:id])
-    @restaurant.destroy
-    flash[:notice] = "Restaurant deleted successfully"
-    redirect_to '/restaurants'
+    find_current_restaurant
+    if @restaurant.user == current_user
+      @restaurant.destroy
+      flash[:notice] = "Restaurant deleted successfully"
+      redirect_to '/restaurants'
+    end
   end
 
+  def find_current_restaurant
+    @restaurant = Restaurant.find(params[:id])
+  end
 
   private
-
 
   def restaurant_params
     params.require(:restaurant).permit(:name, :description)
