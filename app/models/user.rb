@@ -1,4 +1,7 @@
 class User < ApplicationRecord
+  has_many :reviews
+  has_many :reviewed_restaurants, through: :reviews, source: :restaurant
+
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :trackable, :validatable,
          :omniauthable, :omniauth_providers => [:facebook]
@@ -19,9 +22,9 @@ class User < ApplicationRecord
                end
              end
            end
-
-           def has_reviewed?(restaurant)
-             reviewed_restaurants.include? restaurant
-           end
+           #
+          #  def has_reviewed?(restaurant)
+          #    reviewed_restaurants.include? restaurant
+          #  end
 
 end

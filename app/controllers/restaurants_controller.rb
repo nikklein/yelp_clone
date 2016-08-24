@@ -1,6 +1,6 @@
 class RestaurantsController < ApplicationController
   before_action :authenticate_user!, :expect => [:index, :show]
-  
+
   def index
     @restaurants = Restaurant.all
   end
@@ -11,6 +11,7 @@ class RestaurantsController < ApplicationController
 
   def create
     @restaurant = Restaurant.create(restaurant_params)
+    @restaurant.user = current_user
     if @restaurant.save
      redirect_to restaurants_path
     else

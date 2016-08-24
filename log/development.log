@@ -6622,3 +6622,555 @@ Processing by RestaurantsController#index as HTML
 Completed 200 OK in 177ms (Views: 154.2ms | ActiveRecord: 10.0ms)
 
 
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:20:05 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (2.1ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (41.3ms)
+Completed 200 OK in 454ms (Views: 417.2ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:20:06 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:20:07 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:22:00 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (2.4ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (70.1ms)
+Completed 200 OK in 467ms (Views: 422.7ms | ActiveRecord: 4.2ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:22:02 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:22:02 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:22:32 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (2.3ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (62.1ms)
+Completed 200 OK in 476ms (Views: 417.0ms | ActiveRecord: 4.6ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:22:33 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:22:34 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:22:36 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:22:37 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:24:56 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (4.8ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (58.0ms)
+Completed 200 OK in 401ms (Views: 359.9ms | ActiveRecord: 3.9ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:24:59 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:24:59 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:25:03 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:25:03 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:33:08 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (2.1ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (49.6ms)
+Completed 200 OK in 381ms (Views: 337.6ms | ActiveRecord: 3.9ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:12 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:12 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:16 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:17 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:33:19 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (1.1ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 42ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:23 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:23 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:33:42 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (1.3ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 44ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:45 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:33:45 +0100
+Started GET "/" for ::1 at 2016-08-24 10:33:55 +0100
+Processing by RestaurantsController#index as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:33:55 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (1.3ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 64ms (Views: 62.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:35:05 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:35:06 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:35:11 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:35:11 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:35:15 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (2.4ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 102ms (Views: 99.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:35:19 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:35:20 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:37:20 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (2.5ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (50.8ms)
+Completed 200 OK in 368ms (Views: 331.5ms | ActiveRecord: 3.6ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:37:24 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:37:24 +0100
+Started GET "/users/sign_in" for ::1 at 2016-08-24 10:38:21 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (3.0ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (57.1ms)
+Completed 200 OK in 407ms (Views: 358.6ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:38:23 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 10:38:23 +0100
+Started GET "/users/auth/facebook/callback?code=AQBmC6ZVnLpBciKG7TtY44a1Lj07WeVYsuXCoQ2bRybS8lu6nIBecRcriEx0KHXSIaqAbSqV_tIAYCCnrdZJD2rSmWTR9_30URdUqnjEbcbGVXIGAO29Os5AV0gkgph9K6kicRLdPaMX8-kRGbG1tCCDQhlEasr0qQBehXdCzuhq50APdy5Tm0Rzk0agTiwMR8wYaEkwujsc3E3Y53RLQ3sblXRzmM661Ysr5Bi_Vq7BzyemYYroUJ2xpKccgt8SAodASsNvmVCFfwBSHsaEzpXhyBmriKPkFiU43-yBUhXwRgoAam3KgM1S7At-JtcQZroDtRndLTt8AG3BXTskKRL3&state=5b8ceccafdb0d781c2d4bdd5926b28ae04cb4ddab4ec5fe1" for ::1 at 2016-08-24 10:38:26 +0100
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQBmC6ZVnLpBciKG7TtY44a1Lj07WeVYsuXCoQ2bRybS8lu6nIBecRcriEx0KHXSIaqAbSqV_tIAYCCnrdZJD2rSmWTR9_30URdUqnjEbcbGVXIGAO29Os5AV0gkgph9K6kicRLdPaMX8-kRGbG1tCCDQhlEasr0qQBehXdCzuhq50APdy5Tm0Rzk0agTiwMR8wYaEkwujsc3E3Y53RLQ3sblXRzmM661Ysr5Bi_Vq7BzyemYYroUJ2xpKccgt8SAodASsNvmVCFfwBSHsaEzpXhyBmriKPkFiU43-yBUhXwRgoAam3KgM1S7At-JtcQZroDtRndLTt8AG3BXTskKRL3", "state"=>"5b8ceccafdb0d781c2d4bdd5926b28ae04cb4ddab4ec5fe1"}
+  [1m[36mUser Load (14.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = $1 AND "users"."uid" = $2 ORDER BY "users"."id" ASC LIMIT $3[0m  [["provider", "facebook"], ["uid", "521955061328541"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mUser Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = $1 LIMIT $2[0m  [["email", "nicholas.j.bowman@hotmail.com"], ["LIMIT", 1]]
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at", "provider", "uid") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "nicholas.j.bowman@hotmail.com"], ["encrypted_password", "$2a$11$rEu/c6CiaElVnvOjCZsYSew9.zPCTSLSFTmIUNgbFcJtID1jMxrlK"], ["created_at", 2016-08-24 09:38:27 UTC], ["updated_at", 2016-08-24 09:38:27 UTC], ["provider", "facebook"], ["uid", "521955061328541"]]
+  [1m[35m (6.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = $1, "current_sign_in_at" = $2, "last_sign_in_at" = $3, "current_sign_in_ip" = $4, "last_sign_in_ip" = $5, "updated_at" = $6 WHERE "users"."id" = $7[0m  [["sign_in_count", 1], ["current_sign_in_at", 2016-08-24 09:38:27 UTC], ["last_sign_in_at", 2016-08-24 09:38:27 UTC], ["current_sign_in_ip", "::1/128"], ["last_sign_in_ip", "::1/128"], ["updated_at", 2016-08-24 09:38:27 UTC], ["id", 1]]
+  [1m[35m (6.3ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 227ms (ActiveRecord: 29.0ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 10:38:27 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (1.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 48ms (Views: 30.3ms | ActiveRecord: 6.5ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2016-08-24 11:18:53 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 75ms (ActiveRecord: 6.5ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:18:53 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 343ms (Views: 329.7ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:18:58 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 35ms (Views: 30.2ms | ActiveRecord: 1.1ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2016-08-24 11:19:01 +0100
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"WVs/ogiaKT6UDj5NoWeptyiajQaxSNCUAE0hqPjoXsNu+39Y7Z1vfPeYPhWuJ8C7DhrxnBOCbP1D7pwUd0nxnQ=="}
+  [1m[36mUser Load (1.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 14ms (ActiveRecord: 2.5ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:19:01 +0100
+Processing by RestaurantsController#index as HTML
+Completed 401 Unauthorized in 6ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2016-08-24 11:19:01 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (1.6ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 102ms (Views: 97.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 11:19:02 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 11:19:02 +0100
+Started GET "/users/auth/facebook/callback?code=AQCk84Bs2xqmGd54c_Op3UrhA6IHe9uckgfJGCgw-xjPgRq70poaJq3FiMtL2XfEgnGBNaAz-nFu36xGFfzcDNNXaPXUZEj7yun1v6KZSObRNoyG9vLJn3pDjgYX6WHtDsqMnD4f79RQNqIUrS3LmHRi97WK0mGNzgGt5cIUn8BGpVKUfzl63vkc1mc7wNfZMJaCOej_QhFcKFXMU5J0Bh4y1dARYhtzFhJNUoYPEBFbgGjRtPFKKiX8Ihaba0ig6ow-O2vggMp95s-iHEfS-BNXrRXQK_mkRJhEmnqbkDFZDNh3JucCoG9wEiyNjUDkiZpRkj_wQYtsQ9rZarifugvR&state=1c30040cb6e23246ab51cadb658181b4f2d7e617b1bf2cb2" for ::1 at 2016-08-24 11:19:02 +0100
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQCk84Bs2xqmGd54c_Op3UrhA6IHe9uckgfJGCgw-xjPgRq70poaJq3FiMtL2XfEgnGBNaAz-nFu36xGFfzcDNNXaPXUZEj7yun1v6KZSObRNoyG9vLJn3pDjgYX6WHtDsqMnD4f79RQNqIUrS3LmHRi97WK0mGNzgGt5cIUn8BGpVKUfzl63vkc1mc7wNfZMJaCOej_QhFcKFXMU5J0Bh4y1dARYhtzFhJNUoYPEBFbgGjRtPFKKiX8Ihaba0ig6ow-O2vggMp95s-iHEfS-BNXrRXQK_mkRJhEmnqbkDFZDNh3JucCoG9wEiyNjUDkiZpRkj_wQYtsQ9rZarifugvR", "state"=>"1c30040cb6e23246ab51cadb658181b4f2d7e617b1bf2cb2"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = $1 AND "users"."uid" = $2 ORDER BY "users"."id" ASC LIMIT $3[0m  [["provider", "facebook"], ["uid", "521955061328541"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "sign_in_count" = $2, "updated_at" = $3 WHERE "users"."id" = $4[0m  [["current_sign_in_at", 2016-08-24 10:19:03 UTC], ["sign_in_count", 2], ["updated_at", 2016-08-24 10:19:03 UTC], ["id", 1]]
+  [1m[35m (5.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 18ms (ActiveRecord: 6.9ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:19:03 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 64ms (Views: 57.9ms | ActiveRecord: 1.9ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2016-08-24 11:19:06 +0100
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"9PxwNIZzjhhZNmB6fmu02+VXV+Qh7DCMaqhOQh2Bgrplc3GixHN/MQ/O/oats9LRS+SifxPbuOBS8H9jVy0Ihg=="}
+  [1m[36mUser Load (1.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 11ms (ActiveRecord: 2.2ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:19:06 +0100
+Processing by RestaurantsController#index as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2016-08-24 11:19:06 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (1.6ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 55ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 11:19:21 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 11:19:21 +0100
+Started GET "/users/auth/facebook/callback?code=AQCOUOWm5MSyXT2hZvQLxcypB8vOFU1nHreYcXbckdEUJR1JLdZNd-h-7gbsj7SLrcRCLkrsi5kY3orcQvmxwKqgNI67HRadlGswyQi2qL-HnvDYvAsFXncd8mo5muKTeAGeRBEEJFaID2KqY-UNMwJEI3K16QHhlUSiO3Gg8QXvU4A4mkE5xnp43QCXYy7SZ0sZbSDfqtIPy7W4nFpRki93iMbDkYdYyfkllqLI5wXs-UVXLIIgU-Dm-BdRG-ErbOfxhGhXCyTvylVvB2WgQrFTWc1S7Z_dhHo3c93dlYsUKBlxX_3azmAw7vcD944nW4bCs_8sUg3jpf-O8HXcfOda&state=3990186c1b23f97e96563795834534dbd96ade81bdea0ae2" for ::1 at 2016-08-24 11:19:23 +0100
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQCOUOWm5MSyXT2hZvQLxcypB8vOFU1nHreYcXbckdEUJR1JLdZNd-h-7gbsj7SLrcRCLkrsi5kY3orcQvmxwKqgNI67HRadlGswyQi2qL-HnvDYvAsFXncd8mo5muKTeAGeRBEEJFaID2KqY-UNMwJEI3K16QHhlUSiO3Gg8QXvU4A4mkE5xnp43QCXYy7SZ0sZbSDfqtIPy7W4nFpRki93iMbDkYdYyfkllqLI5wXs-UVXLIIgU-Dm-BdRG-ErbOfxhGhXCyTvylVvB2WgQrFTWc1S7Z_dhHo3c93dlYsUKBlxX_3azmAw7vcD944nW4bCs_8sUg3jpf-O8HXcfOda", "state"=>"3990186c1b23f97e96563795834534dbd96ade81bdea0ae2"}
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = $1 AND "users"."uid" = $2 ORDER BY "users"."id" ASC LIMIT $3[0m  [["provider", "facebook"], ["uid", "521955061328541"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "last_sign_in_at" = $2, "sign_in_count" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["current_sign_in_at", 2016-08-24 10:19:24 UTC], ["last_sign_in_at", 2016-08-24 10:19:03 UTC], ["sign_in_count", 3], ["updated_at", 2016-08-24 10:19:24 UTC], ["id", 1]]
+  [1m[35m (6.8ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 18ms (ActiveRecord: 8.7ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:19:24 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (1.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 47ms (Views: 41.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2016-08-24 11:37:29 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 60ms (ActiveRecord: 5.4ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:37:29 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 270ms (Views: 259.9ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:37:44 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 28ms (Views: 23.0ms | ActiveRecord: 0.8ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2016-08-24 11:37:47 +0100
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"OGMGgjBBixPdcO56b28w3TEjZn7dv2papxRFXfJrde0VVr5MPES910c70lolWqIe89lt7fD7itYs8O6BwQxM4g=="}
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 10ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:37:47 +0100
+Processing by RestaurantsController#index as HTML
+Completed 401 Unauthorized in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2016-08-24 11:37:47 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/shared/_links.html.erb (1.4ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0/gems/devise-4.2.0/app/views/devise/sessions/new.html.erb within layouts/application (24.1ms)
+Completed 200 OK in 80ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 11:37:49 +0100
+Started GET "/users/auth/facebook" for ::1 at 2016-08-24 11:37:49 +0100
+Started GET "/users/auth/facebook/callback?code=AQCjP8lNElSDD6epKgWZkRvd7NcFxr86mthnTJJG0Hc9OBH7WJn5NNP1RoeX36vfXol-aRe05uvcsGTpZy7g7QsHMDlkfg8TJsK3G2m-txSk7LNYmmZ57GbI3CWV8Gj6WOz0bMdbnnszcoluQbzfOcVu_yIMmvjniNr-m_B_AHLK9B8MMUXPHyoXvSW_R2QjW_kG9KK9KoAHUYqQjPe_ikSbOhJZHm6-G5Q9F6dtCOZBQXjSbRBhhOW131_HI9bFGr_nPXjB1OyG_Nj0gTUVaYUMFfXVy1FlMLTngGoBk6Ez328VX2davcfw6jc7ls8HyZH233JD_4kURq_kNg4d6RVU&state=9904de12e3830ae31bc84ea36323506a6ddd5ef9b53e68c7" for ::1 at 2016-08-24 11:37:52 +0100
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQCjP8lNElSDD6epKgWZkRvd7NcFxr86mthnTJJG0Hc9OBH7WJn5NNP1RoeX36vfXol-aRe05uvcsGTpZy7g7QsHMDlkfg8TJsK3G2m-txSk7LNYmmZ57GbI3CWV8Gj6WOz0bMdbnnszcoluQbzfOcVu_yIMmvjniNr-m_B_AHLK9B8MMUXPHyoXvSW_R2QjW_kG9KK9KoAHUYqQjPe_ikSbOhJZHm6-G5Q9F6dtCOZBQXjSbRBhhOW131_HI9bFGr_nPXjB1OyG_Nj0gTUVaYUMFfXVy1FlMLTngGoBk6Ez328VX2davcfw6jc7ls8HyZH233JD_4kURq_kNg4d6RVU", "state"=>"9904de12e3830ae31bc84ea36323506a6ddd5ef9b53e68c7"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = $1 AND "users"."uid" = $2 ORDER BY "users"."id" ASC LIMIT $3[0m  [["provider", "facebook"], ["uid", "521955061328541"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "last_sign_in_at" = $2, "sign_in_count" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["current_sign_in_at", 2016-08-24 10:37:52 UTC], ["last_sign_in_at", 2016-08-24 10:19:24 UTC], ["sign_in_count", 4], ["updated_at", 2016-08-24 10:37:52 UTC], ["id", 1]]
+  [1m[35m (6.4ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 18ms (ActiveRecord: 7.9ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:37:52 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (1.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 36ms (Views: 30.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/restaurants/new" for ::1 at 2016-08-24 11:38:26 +0100
+Processing by RestaurantsController#new as HTML
+  [1m[36mUser Load (3.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/new.html.erb within layouts/application
+  Rendered restaurants/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 59ms (Views: 35.6ms | ActiveRecord: 6.2ms)
+
+
+Started POST "/restaurants" for ::1 at 2016-08-24 11:38:35 +0100
+Processing by RestaurantsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UH7qs3KO3TbPS+YKU2Idj1KYObCnnpiuRts7xVTtlzrWGKNd1I1pDJe7lpaI5UG19gczENED7fg/XKh9NWPUUQ==", "restaurant"=>{"name"=>"piece of shit", "description"=>"is a sit place"}, "commit"=>"Create Restaurant"}
+  [1m[36mUser Load (1.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mRestaurant Exists (1.0ms)[0m  [1m[34mSELECT  1 AS one FROM "restaurants" WHERE "restaurants"."name" = $1 LIMIT $2[0m  [["name", "piece of shit"], ["LIMIT", 1]]
+  [1m[35mSQL (0.7ms)[0m  [1m[32mINSERT INTO "restaurants" ("name", "created_at", "updated_at", "description") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "piece of shit"], ["created_at", 2016-08-24 10:38:35 UTC], ["updated_at", 2016-08-24 10:38:35 UTC], ["description", "is a sit place"]]
+  [1m[35m (6.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mRestaurant Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "restaurants" WHERE "restaurants"."name" = $1 AND ("restaurants"."id" != $2) LIMIT $3[0m  [["name", "piece of shit"], ["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/restaurants
+Completed 302 Found in 34ms (ActiveRecord: 10.3ms)
+
+
+Started GET "/restaurants" for ::1 at 2016-08-24 11:38:35 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  [1m[36mRestaurant Load (0.4ms)[0m  [1m[34mSELECT "restaurants".* FROM "restaurants"[0m
+  Rendered restaurants/index.html.erb within layouts/application (38.3ms)
+Completed 500 Internal Server Error in 48ms (ActiveRecord: 2.2ms)
+
+
+  
+ActionView::Template::Error (undefined method `arity' for :restaurant:Symbol):
+    3:     <div>
+    4:     <%= link_to restaurant.name, restaurant_path(restaurant) %>
+    5:     <%= restaurant.description %>
+    6:     <% if restaurant.reviews.any? %>
+    7:     <ul>
+    8:       <% restaurant.reviews.each do |review|%>
+    9:       <li>
+  
+app/models/review.rb:3:in `<class:Review>'
+app/models/review.rb:1:in `<top (required)>'
+app/views/restaurants/index.html.erb:6:in `block in _app_views_restaurants_index_html_erb__3878667260543746684_70282667212100'
+app/views/restaurants/index.html.erb:2:in `_app_views_restaurants_index_html_erb__3878667260543746684_70282667212100'
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.5ms)
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/NJB/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (94.3ms)
+Started GET "/" for ::1 at 2016-08-24 11:39:58 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  [1m[36mRestaurant Load (0.2ms)[0m  [1m[34mSELECT "restaurants".* FROM "restaurants"[0m
+  [1m[36mReview Exists (0.6ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 1], ["LIMIT", 1]]
+  Rendered restaurants/index.html.erb within layouts/application (55.6ms)
+Completed 200 OK in 339ms (Views: 284.8ms | ActiveRecord: 8.9ms)
+
+
+Started GET "/" for ::1 at 2016-08-24 11:40:00 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  [1m[36mRestaurant Load (0.2ms)[0m  [1m[34mSELECT "restaurants".* FROM "restaurants"[0m
+  [1m[36mReview Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 1], ["LIMIT", 1]]
+  Rendered restaurants/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 36ms (Views: 30.9ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/restaurants/new" for ::1 at 2016-08-24 11:40:04 +0100
+Processing by RestaurantsController#new as HTML
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/new.html.erb within layouts/application
+  Rendered restaurants/new.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 82ms (Views: 74.0ms | ActiveRecord: 1.2ms)
+
+
+Started POST "/restaurants" for ::1 at 2016-08-24 11:40:13 +0100
+Processing by RestaurantsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XgrAd5jqANHUdeCWN5UzhsXMsBZJM/5tXiNHcHSPdXTYbImZPum064yFkArsEm+8YVO6tj+uizsnpNTIFQE2Hw==", "restaurant"=>{"name"=>"nik place", "description"=>"its niks place"}, "commit"=>"Create Restaurant"}
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mRestaurant Exists (0.9ms)[0m  [1m[34mSELECT  1 AS one FROM "restaurants" WHERE "restaurants"."name" = $1 LIMIT $2[0m  [["name", "nik place"], ["LIMIT", 1]]
+  [1m[35mSQL (0.6ms)[0m  [1m[32mINSERT INTO "restaurants" ("name", "created_at", "updated_at", "description") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "nik place"], ["created_at", 2016-08-24 10:40:13 UTC], ["updated_at", 2016-08-24 10:40:13 UTC], ["description", "its niks place"]]
+  [1m[35m (0.5ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mRestaurant Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "restaurants" WHERE "restaurants"."name" = $1 AND ("restaurants"."id" != $2) LIMIT $3[0m  [["name", "nik place"], ["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/restaurants
+Completed 302 Found in 16ms (ActiveRecord: 3.8ms)
+
+
+Started GET "/restaurants" for ::1 at 2016-08-24 11:40:13 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  [1m[36mRestaurant Load (0.2ms)[0m  [1m[34mSELECT "restaurants".* FROM "restaurants"[0m
+  [1m[36mReview Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 1], ["LIMIT", 1]]
+  [1m[36mReview Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 2], ["LIMIT", 1]]
+  Rendered restaurants/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 43ms (Views: 38.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/restaurants/2/reviews/new" for ::1 at 2016-08-24 11:40:16 +0100
+Processing by ReviewsController#new as HTML
+  Parameters: {"restaurant_id"=>"2"}
+  [1m[36mRestaurant Load (2.0ms)[0m  [1m[34mSELECT  "restaurants".* FROM "restaurants" WHERE "restaurants"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering reviews/new.html.erb within layouts/application
+  Rendered reviews/new.html.erb within layouts/application (8.6ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 62ms (Views: 36.8ms | ActiveRecord: 8.0ms)
+
+
+Started POST "/restaurants/2/reviews" for ::1 at 2016-08-24 11:40:27 +0100
+Processing by ReviewsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"L5Q134iqRRNyD1BMW5eKDtwRe+Qzj9RjB94MY7BsQNOAry4+G8ug1fe/oPM6sQ6lro6cWtrAWpKDPCYwPcmtHQ==", "review"=>{"thoughts"=>"it's a place where you find nik", "rating"=>"5"}, "commit"=>"Leave Review", "restaurant_id"=>"2"}
+  [1m[36mRestaurant Load (0.8ms)[0m  [1m[34mSELECT  "restaurants".* FROM "restaurants" WHERE "restaurants"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/restaurants
+Completed 302 Found in 32ms (ActiveRecord: 1.2ms)
+
+
+Started GET "/restaurants" for ::1 at 2016-08-24 11:40:27 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  [1m[36mRestaurant Load (0.3ms)[0m  [1m[34mSELECT "restaurants".* FROM "restaurants"[0m
+  [1m[36mReview Exists (0.6ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 1], ["LIMIT", 1]]
+  [1m[36mReview Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 2], ["LIMIT", 1]]
+  Rendered restaurants/index.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 46ms (Views: 40.5ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/restaurants/2/reviews/new" for ::1 at 2016-08-24 11:40:33 +0100
+Processing by ReviewsController#new as HTML
+  Parameters: {"restaurant_id"=>"2"}
+  [1m[36mRestaurant Load (0.5ms)[0m  [1m[34mSELECT  "restaurants".* FROM "restaurants" WHERE "restaurants"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering reviews/new.html.erb within layouts/application
+  Rendered reviews/new.html.erb within layouts/application (4.3ms)
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 52ms (Views: 46.2ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/restaurants/2/reviews" for ::1 at 2016-08-24 11:40:36 +0100
+Processing by ReviewsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"H7JxDzNSyEtzvjfQL+RAxoCxuOMSMsFnP6LlYYYCRnOwiWruoDMtjfYOx29OwsRt8i5fXft9T5a7QM8yC6ervQ==", "review"=>{"thoughts"=>"ergaergdrg", "rating"=>"1"}, "commit"=>"Leave Review", "restaurant_id"=>"2"}
+  [1m[36mRestaurant Load (0.4ms)[0m  [1m[34mSELECT  "restaurants".* FROM "restaurants" WHERE "restaurants"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/restaurants
+Completed 302 Found in 6ms (ActiveRecord: 0.7ms)
+
+
+Started GET "/restaurants" for ::1 at 2016-08-24 11:40:36 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  [1m[36mRestaurant Load (0.3ms)[0m  [1m[34mSELECT "restaurants".* FROM "restaurants"[0m
+  [1m[36mReview Exists (0.5ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 1], ["LIMIT", 1]]
+  [1m[36mReview Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 2], ["LIMIT", 1]]
+  Rendered restaurants/index.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 52ms (Views: 46.4ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/restaurants/2/reviews/new" for ::1 at 2016-08-24 11:40:38 +0100
+Processing by ReviewsController#new as HTML
+  Parameters: {"restaurant_id"=>"2"}
+  [1m[36mRestaurant Load (1.2ms)[0m  [1m[34mSELECT  "restaurants".* FROM "restaurants" WHERE "restaurants"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering reviews/new.html.erb within layouts/application
+  Rendered reviews/new.html.erb within layouts/application (4.3ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 44ms (Views: 36.7ms | ActiveRecord: 2.1ms)
+
+
+Started POST "/restaurants/2/reviews" for ::1 at 2016-08-24 11:40:41 +0100
+Processing by ReviewsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lSUyo0gmik1ciqCgn0t77yjIdOIvyUJl25famu//h6A6HilC20dvi9k6UB/+bf9EWleTXMaGzJRfdfDJYlpqbg==", "review"=>{"thoughts"=>"dfddv", "rating"=>"1"}, "commit"=>"Leave Review", "restaurant_id"=>"2"}
+  [1m[36mRestaurant Load (0.4ms)[0m  [1m[34mSELECT  "restaurants".* FROM "restaurants" WHERE "restaurants"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/restaurants
+Completed 302 Found in 14ms (ActiveRecord: 0.8ms)
+
+
+Started GET "/restaurants" for ::1 at 2016-08-24 11:40:41 +0100
+Processing by RestaurantsController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering restaurants/index.html.erb within layouts/application
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "restaurants"[0m
+  [1m[36mRestaurant Load (0.3ms)[0m  [1m[34mSELECT "restaurants".* FROM "restaurants"[0m
+  [1m[36mReview Exists (0.8ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 1], ["LIMIT", 1]]
+  [1m[36mReview Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "reviews" WHERE "reviews"."restaurant_id" = $1 LIMIT $2[0m  [["restaurant_id", 2], ["LIMIT", 1]]
+  Rendered restaurants/index.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 37ms (Views: 31.6ms | ActiveRecord: 2.4ms)
+
+
