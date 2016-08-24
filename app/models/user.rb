@@ -1,5 +1,6 @@
 class User < ApplicationRecord
   has_many :reviews
+  has_many :restaurants
   has_many :reviewed_restaurants, through: :reviews, source: :restaurant
 
   devise :database_authenticatable, :registerable,
