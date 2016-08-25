@@ -3,6 +3,7 @@
     <div>
     <%= link_to restaurant.name, restaurant_path(restaurant) %>
     <%= restaurant.description %>
+    <h2>Average rating: <%= restaurant.average_rating.to_i %></h2>
     <% if restaurant.reviews.any? %>
     <ul>
       <% restaurant.reviews.each do |review|%>
@@ -12,8 +13,10 @@
       <% end %>
     </ul>
     <% end %>
+    <% if current_user %>
     <% if !current_user.has_reviewed? restaurant  %>
     <%= link_to "Review #{restaurant.name}", new_restaurant_review_path(restaurant) %>
+    <% end %>
     <% end %>
     <% if restaurant.user == current_user  %>
     <%= link_to "Edit #{restaurant.name}", edit_restaurant_path(restaurant) %>
