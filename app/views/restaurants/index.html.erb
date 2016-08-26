@@ -9,6 +9,8 @@
       <% restaurant.reviews.each do |review|%>
       <li>
         <%= review.thoughts %>
+        <p><%= pluralize review.endorsements.count, 'endorsement' %></p>
+        <%= link_to "Endorse Review", review_endorsements_path(review.id), method: :post%>
       </li>
       <% end %>
     </ul>
