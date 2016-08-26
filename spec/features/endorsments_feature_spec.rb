@@ -13,4 +13,10 @@ feature 'endorsing reviews' do
     expect(page).to have_content('1 endorsement')
   end
 
+  scenario 'counts a number of endorsements' do
+    10.times{click_link "Endorse Review"}
+    expect(page).to have_content('10 endorsement')
+  end
+
+
 end
